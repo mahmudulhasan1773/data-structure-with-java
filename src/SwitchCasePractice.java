@@ -17,6 +17,9 @@ public class SwitchCasePractice {
                 System.out.println(" this is banana ");
                 break;
 
+            default:
+                System.out.println("this is not listed food");
+
         }
     }
 }
